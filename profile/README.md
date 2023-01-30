@@ -8,3 +8,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+[![discord server](https://inv.wtf/widget/YZxuVj5Y)](https://inv.wtf/YZxuVj5Y)
